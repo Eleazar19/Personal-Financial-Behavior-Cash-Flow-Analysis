@@ -94,41 +94,44 @@ Aggregated and behavioral analysis was then conducted to identify patterns in im
 - To improve income stability and support a healthier credit profile, the user should rely more on consistent and predictable income sources that remain relatively stable across months. Regular inflows enhance cash-flow predictability, improve the user’s ability to meet financial obligations on time, and positively influence creditworthiness.
 
 - To effectively control immediate spending habits largely driven by fiscal indiscipline, the user should adopt a structured budgeting system that clearly covers all financial needs and discretionary wants. 
-The use of a budget or expense-tracking tool is strongly recommended to monitor expenditures in real time and ensure spending remains within planned limits.
+The use of a budget or expense-tracking tool is strongly recommended to monitor expenditures in real time and ensure spending remains within planned limits.     Additionally, financial applications that allow temporary locking or restricted access to funds can help prevent impulsive spending shortly after income receipt. Finally, engaging a financial adviser or undergoing basic financial literacy training would be of significant benefit, as it would promote informed decision-making, encourage savings-oriented behavior, and reduce exposure to future financial pitfalls.
 
-Additionally, financial applications that allow temporary locking or restricted access to funds can help prevent impulsive spending shortly after income receipt. Finally, engaging a financial adviser or undergoing basic financial literacy training would be of significant benefit, as it would promote informed decision-making, encourage savings-oriented behavior, and reduce exposure to future financial pitfalls.
-
-- Unnecessary outflows driven by frequent airtime purchases and recurring loan-related payments should be deliberately reduced to minimize inflow leakages. The account holder should implement spending controls that limit impulsive purchases, discretionary expenses, and avoidable financial commitments that increase reliance on borrowing.
-
-Strengthening spending discipline through predefined expense limits, planned consumption, and proactive debt avoidance strategies will help minimize cash outflow and reduce the risk of recurring debt accumulation.
+- Unnecessary outflows driven by frequent airtime purchases and recurring loan-related payments should be deliberately reduced to minimize inflow leakages. The account holder should implement spending controls that limit impulsive purchases, discretionary expenses, and avoidable financial commitments that increase reliance on borrowing.    Strengthening spending discipline through predefined expense limits, planned consumption, and proactive debt avoidance strategies will help minimize cash outflow and reduce the risk of recurring debt accumulation.
 
 - To improve balance stability and long-term saving capacity, the user should implement a structured savings approach rather than relying on sporadic surplus periods. A fixed percentage of every inflow should be automatically allocated to savings immediately upon receipt to reduce volatility.
 
-- Reducing income-related expenses concentrated at month end requires a detailed review of spending categories to distinguish essential expenditures from discretionary, want-driven spending.
+- Reducing income-related expenses concentrated at month end requires a detailed review of spending categories to distinguish essential expenditures from discretionary, want-driven spending.  By deliberately cutting non-essential expenses that spike after income receipt and implementing a structured budget that prioritizes necessities, savings, and an emergency buffer, the user can reduce income leakages, smooth spending across the month, and ease recurring financial pressure.
 
-By deliberately cutting non-essential expenses that spike after income receipt and implementing a structured budget that prioritizes necessities, savings, and an emergency buffer, the user can reduce income leakages, smooth spending across the month, and ease recurring financial pressure.
-
-- Although expenses are not compounding over time, the high month-to-month volatility indicates inconsistent spending discipline. To improve financial stability, the account holder should implement a structured monthly spending cap with category-level allocation (e.g., fixed limits for food, transport, discretionary spending).
-
-Additionally, introducing a mid-month expense review can help detect overspending early and prevent large swings by month-end.
+- Although expenses are not compounding over time, the high month-to-month volatility indicates inconsistent spending discipline. To improve financial stability, the account holder should implement a structured monthly spending cap with category-level allocation (e.g., fixed limits for food, transport, discretionary spending).  Additionally, introducing a mid-month expense review can help detect overspending early and prevent large swings by month-end.
 
 
 ### Tools
-Microsoft Excel: Primary tool used for data cleaning, transformation, analysis, and visualization.
-Pivot Tables: Used to summarize transaction records and analyze spending patterns across months, categories, and time periods.
-Data Visualization: Line chart, column chart, and bar chart were used to communicate key insight in a clear and understandable way.
+##### Microsoft Excel: 
+Primary tool used for data cleaning, transformation, analysis, and visualization.
+
+##### Pivot Tables: 
+Used to summarize transaction records and analyze spending patterns across months, categories, and time periods.
+
+##### Data Visualization: 
+Line chart, column chart, and bar chart were used to communicate key insight in a clear and understandable way.
 
 
 ### Analytical Techniques
-Data Cleaning & Standardization: Transaction dates, categories, and inflow/outflow labels were structured to ensure consistent analysis.
 
-Time-Series Analysis: Monthly and period-based analysis was conducted to evaluate spending trends, paycheck-cycle behavior, and balance stability over time.
+##### Data Cleaning & Standardization: 
+Transaction dates, categories, and inflow/outflow labels were structured to ensure consistent analysis.
 
-Cash Flow Analysis: Comparison of inflows versus outflows to determine saving capacity and financial sustainability.
+##### Time-Series Analysis: 
+Monthly and period-based analysis was conducted to evaluate spending trends, paycheck-cycle behavior, and balance stability over time.
 
-Month-over-Month (MoM) Trend Analysis: Used to measure expense growth, spending resets, and behavioral changes across months.
+##### Cash Flow Analysis: 
+Comparison of inflows versus outflows to determine saving capacity and financial sustainability.
 
-Behavioral Financial Analysis: Transactions were interpreted beyond numbers to identify impulsive spending, dependency on inflows, and financial pressure periods.
+##### Month-over-Month (MoM) Trend Analysis: 
+Used to measure expense growth, spending resets, and behavioral changes across months.
+
+##### Behavioral Financial Analysis: 
+Transactions were interpreted beyond numbers to identify impulsive spending, dependency on inflows, and financial pressure periods.
 
 
 ### Value Delivered
@@ -137,20 +140,12 @@ This project transformed raw financial transaction data into meaningful behavior
 
 ### Key value delivered includes
 
--	Improved Financial Visibility
-The analysis clearly showed where money was going, when spending pressures occur, and how expenses evolve across months, helping identify hidden financial patterns that are not obvious from a bank statement alone.
+-	Improved Financial Visibility: The analysis clearly showed where money was going, when spending pressures occur, and how expenses evolve across months, helping identify hidden financial patterns that are not obvious from a bank statement alone.
 
--	Identification of Risky Spending Behavior
-The project uncovered end-of-month spending spikes linked to income inflows, highlighting paycheck-to-paycheck behavior and lack of financial buffer.
+-	Identification of Risky Spending Behavior: The project uncovered end-of-month spending spikes linked to income inflows, highlighting paycheck-to-paycheck behavior and lack of financial buffer.
 
--	Cash Flow Stability Assessment
-Monthly net cash flow evaluation revealed periods of surplus and deficit, enabling an understanding of why balance growth remained stagnant despite occasional positive months.
+-	Cash Flow Stability Assessment: Monthly net cash flow evaluation revealed periods of surplus and deficit, enabling an understanding of why balance growth remained stagnant despite occasional positive months.
 
--	Actionable Financial Guidance
-Insights were translated into practical recommendations such as expense prioritization, structured budgeting, and creation of a financial safety net to improve long-term stability.
+-	Actionable Financial Guidance: Insights were translated into practical recommendations such as expense prioritization, structured budgeting, and creation of a financial safety net to improve long-term stability.
 
--	Data-Driven Decision Support
-The project demonstrates how analytical methods can guide smarter financial planning rather than relying on assumptions or intuition.
-
-
-
+-	Data-Driven Decision Support: The project demonstrates how analytical methods can guide smarter financial planning rather than relying on assumptions or intuition.
