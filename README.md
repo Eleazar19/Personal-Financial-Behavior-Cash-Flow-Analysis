@@ -9,6 +9,7 @@ This project analyzes bank transaction data to evaluate how income is earned, ho
 
 
 
+
 ### Business Problems Solved 
 This project is based on providing answers to critical business questions, which include:
 
@@ -19,6 +20,8 @@ This project is based on providing answers to critical business questions, which
 - After accounting for all inflows and outflows, is the user’s balance trend improving, stagnant, or deteriorating over time?
 - How does the user’s spending behavior change toward the end of the month compared to the beginning, and does financial pressure increase over time?
 - Are the user’s monthly expenses compounding over time, or do spending levels reset each month?
+
+
 
 
 ### Data Overview 
@@ -47,6 +50,9 @@ The dataset contains completed transaction data, including
 - Net Cash Flow 
 
 
+
+
+
 ### Methodology 
 
 The project followed a structured financial analytics approach focused on understanding cash flow behavior and spending patterns. First, the transaction dataset was reviewed to understand inflow and outflow categories, transaction timing, and balance movements. The data was then cleaned and standardized by correcting date formats, categorizing transactions, and separating inflows from outflows to ensure accurate financial calculations.
@@ -56,8 +62,12 @@ Next, key financial metrics such as total inflows and outflows, net cash flow, s
 Aggregated and behavioral analysis was then conducted to identify patterns in immediate spending, expense growth, and financial volatility. Finally, analytical findings were translated into practical financial insights and actionable recommendations aimed at improving budgeting discipline, reducing unnecessary outflows, strengthening savings behavior, and supporting long-term financial stability.
 
 
+
+
 ### Dashboard
 <img width="1198" height="446" alt="new" src="https://github.com/user-attachments/assets/63384653-4fc7-4244-9793-cd512d7b701c" />
+
+
 
 
 ### Key Insights
