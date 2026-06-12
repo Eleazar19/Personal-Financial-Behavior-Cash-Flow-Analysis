@@ -140,12 +140,17 @@ This project transformed raw financial transaction data into meaningful behavior
 
 ### Key value delivered includes
 
--	Improved Financial Visibility: The analysis clearly showed where money was going, when spending pressures occur, and how expenses evolve across months, helping identify hidden financial patterns that are not obvious from a bank statement alone.
+##### Improved Financial Visibility: 
+The analysis clearly showed where money was going, when spending pressures occur, and how expenses evolve across months, helping identify hidden financial patterns that are not obvious from a bank statement alone.
 
--	Identification of Risky Spending Behavior: The project uncovered end-of-month spending spikes linked to income inflows, highlighting paycheck-to-paycheck behavior and lack of financial buffer.
+##### Identification of Risky Spending Behavior: 
+The project uncovered end-of-month spending spikes linked to income inflows, highlighting paycheck-to-paycheck behavior and lack of financial buffer.
 
--	Cash Flow Stability Assessment: Monthly net cash flow evaluation revealed periods of surplus and deficit, enabling an understanding of why balance growth remained stagnant despite occasional positive months.
+##### Cash Flow Stability Assessment: 
+Monthly net cash flow evaluation revealed periods of surplus and deficit, enabling an understanding of why balance growth remained stagnant despite occasional positive months.
 
--	Actionable Financial Guidance: Insights were translated into practical recommendations such as expense prioritization, structured budgeting, and creation of a financial safety net to improve long-term stability.
+##### Actionable Financial Guidance:
+Insights were translated into practical recommendations such as expense prioritization, structured budgeting, and creation of a financial safety net to improve long-term stability.
 
--	Data-Driven Decision Support: The project demonstrates how analytical methods can guide smarter financial planning rather than relying on assumptions or intuition.
+##### Data-Driven Decision Support: 
+The project demonstrates how analytical methods can guide smarter financial planning rather than relying on assumptions or intuition.
