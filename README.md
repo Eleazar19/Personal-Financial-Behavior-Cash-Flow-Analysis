@@ -67,14 +67,11 @@ Aggregated and behavioral analysis was then conducted to identify patterns in im
 
 - Although the average time between income receipt and first expenditure is nearly 24 hours, the median time is under 3 hours at (2:55:43). This indicates that the account owner typically spends income shortly after receipt, with only a few inflows being retained for extended periods. Overall, spending behavior is predominantly immediate rather than savings-oriented.
 
-- Data revealed that outward transfer tops the outflow list by category posting a 96.15% (1,298,817.00 ), while airtime, bills, and inward transfer posted 2.78%( 37,570.00), 0.97%(13,100.00), and 0.09% (1,250.00) respectively. 
-The outflows reflect a mix of essentials (electricity bills, cooking gas, toiletries, feeding, and petrol), loan repayment, transfer to third parties, online payment and purchases, POS withdrawals, and airtime purchases.
+- Data revealed that outward transfer tops the outflow list by category posting a 96.15% (1,298,817.00 ), while airtime, bills, and inward transfer posted 2.78%( 37,570.00), 0.97%(13,100.00), and 0.09% (1,250.00) respectively.    The outflows reflect a mix of essentials (electricity bills, cooking gas, toiletries, feeding, and petrol), loan repayment, transfer to third parties, online payment and purchases, POS withdrawals, and airtime purchases.
 
-- Analysis of monthly net cash flow indicates that the user’s balance trend remains largely stagnant for most of the year, with minor fluctuations around zero. While there is noticeable improvement toward the end of the year particularly in October and December the overall pattern is volatile, with a significant deterioration in November offsetting prior gains. This suggests that although the user has periods of positive saving capacity, the absence of consistent surplus management limits sustained balance growth.
+- Analysis of monthly net cash flow indicates that the user’s balance trend remains largely stagnant for most of the year, with minor fluctuations around zero. While there is noticeable improvement toward the end of the year particularly in October and December the overall pattern is volatile, with a significant deterioration in November offsetting prior gains.    This suggests that although the user has periods of positive saving capacity, the absence of consistent surplus management limits sustained balance growth.
 
-- Spending activity increases significantly toward the end of the month, both in transaction volume and total debit value, compared to early-month activity, reflecting the availability of disposable income. Further analysis shows that most outflows occur between days 24–31, which aligns with typical income receipt periods.
-
-This spending pattern suggests a high dependency on incoming funds, where expenditures accelerate immediately after inflows are received, indicating financial pressure, impulsive financial behavior, and lack of financial buffer.
+- Spending activity increases significantly toward the end of the month, both in transaction volume and total debit value, compared to early-month activity, reflecting the availability of disposable income. Further analysis shows that most outflows occur between days 24–31, which aligns with typical income receipt periods.   This spending pattern suggests a high dependency on incoming funds, where expenditures accelerate immediately after inflows are received, indicating financial pressure, impulsive financial behavior, and lack of financial buffer.
 
 - Month-on-month expense movements show alternating increases and decreases rather than a sustained upward pattern. This suggests that spending levels reset periodically instead of compounding over time, indicating constant change in monthly spending behavior.
 
@@ -113,20 +110,22 @@ Data Visualization: Line chart, column chart, and bar chart were used to communi
 
 
 ### Analytical Techniques
-Data Cleaning & Standardization
-Transaction dates, categories, and inflow/outflow labels were structured to ensure consistent analysis.
-Time-Series Analysis
-Monthly and period-based analysis was conducted to evaluate spending trends, paycheck-cycle behavior, and balance stability over time.
-Cash Flow Analysis
-Comparison of inflows versus outflows to determine saving capacity and financial sustainability.
-Month-over-Month (MoM) Trend Analysis
-Used to measure expense growth, spending resets, and behavioral changes across months.
-Behavioral Financial Analysis
-Transactions were interpreted beyond numbers to identify impulsive spending, dependency on inflows, and financial pressure periods.
+Data Cleaning & Standardization: Transaction dates, categories, and inflow/outflow labels were structured to ensure consistent analysis.
+
+Time-Series Analysis: Monthly and period-based analysis was conducted to evaluate spending trends, paycheck-cycle behavior, and balance stability over time.
+
+Cash Flow Analysis: Comparison of inflows versus outflows to determine saving capacity and financial sustainability.
+
+Month-over-Month (MoM) Trend Analysis: Used to measure expense growth, spending resets, and behavioral changes across months.
+
+Behavioral Financial Analysis: Transactions were interpreted beyond numbers to identify impulsive spending, dependency on inflows, and financial pressure periods.
 
 
 ### Value Delivered
-This project transformed raw financial transaction data into meaningful behavioral and financial insights that support better personal financial decision-making. By analyzing inflow and outflow patterns over time, the analysis revealed how spending habits, income timing, and cash-flow management affect overall balance stability. Key value delivered includes
+This project transformed raw financial transaction data into meaningful behavioral and financial insights that support better personal financial decision-making. By analyzing inflow and outflow patterns over time, the analysis revealed how spending habits, income timing, and cash-flow management affect overall balance stability. 
+
+
+### Key value delivered includes
 
 -	Improved Financial Visibility
 The analysis clearly showed where money was going, when spending pressures occur, and how expenses evolve across months, helping identify hidden financial patterns that are not obvious from a bank statement alone.
