@@ -57,7 +57,7 @@ The dataset contains completed transaction data, including
 
 The project followed a structured financial analytics approach focused on understanding cash flow behavior and spending patterns. First, the transaction dataset was reviewed to understand inflow and outflow categories, transaction timing, and balance movements. The data was then cleaned and standardized by correcting date formats, categorizing transactions, and separating inflows from outflows to ensure accurate financial calculations.
 
-Next, key financial metrics such as total inflows and outflows, net cash flow, spending timing, monthly expense trends, and balance stability were derived. Pivot tables and time-based analysis were applied to evaluate month-to-month changes, spending concentration periods, and saving capacity across the year.
+Next, key financial metrics such as spending timing and monthly expense trends were derived. Pivot tables and time-based analysis were applied to evaluate month-to-month changes, spending concentration periods, and saving capacity across the year.
 
 Aggregated and behavioral analysis was then conducted to identify patterns in immediate spending, expense growth, and financial volatility. Finally, analytical findings were translated into practical financial insights and actionable recommendations aimed at improving budgeting discipline, reducing unnecessary outflows, strengthening savings behavior, and supporting long-term financial stability.
 
